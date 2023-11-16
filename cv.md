@@ -49,3 +49,8 @@ Bachelor's degree, Information technology.
 Gomel Technical University P.O. Suhogo.
 Magister degree, Information technology.
 2019 -2021
+
+# English
+
+Level B1-B2, I studied with a tutor for several years.
+I spend a lot of time studying English on my own, reading stories, watching TV series, watching YouTube channels on learning English. I attend courses.
