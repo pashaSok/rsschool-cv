@@ -31,3 +31,7 @@ I graduated from Gomel State University named after P.O. Sukhoi as a software en
 - _Git_
 - _webpack_
 - _Vite_
+
+# Code example:
+
+[github-search](https://github.com/pashaSok/github-search/tree/git-search)
