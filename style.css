@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.container {
+  width: 1200px;
+  padding: 0 40px;
+  margin: 0 auto;
+}
+.header {
+  margin-bottom: 20px;
+}
+.header .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.avatar-img {
+  width: 180px;
+  height: 200px;
+}
