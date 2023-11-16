@@ -35,3 +35,17 @@ I graduated from Gomel State University named after P.O. Sukhoi as a software en
 # Code example:
 
 [github-search](https://github.com/pashaSok/github-search/tree/git-search)
+
+# Experience
+
+I have no experience in real projects, but I have some training projects.
+
+# Education
+
+Gomel Technical University P.O. Suhogo.
+Bachelor's degree, Information technology.
+2015 -2019
+
+Gomel Technical University P.O. Suhogo.
+Magister degree, Information technology.
+2019 -2021
